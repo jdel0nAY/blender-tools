@@ -1,6 +1,6 @@
 # blender_tools
 
-Public collection of Blender add-ons and scripts by Jean Delaunay.
+Public collection of Blender add-ons and scripts I made. Some by myself, some with ai help.
 
 Each tool lives in its own subfolder and is a self-contained add-on: install
 the tool's `.py` via **Edit → Preferences → Add-ons → Install…**, then see that
