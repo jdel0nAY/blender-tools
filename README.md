@@ -14,13 +14,6 @@ tool's own README for usage.
 
 <!-- Add new tools as rows above. -->
 
-## Naming & versioning
-
-Tools follow `jd_<ToolName>_forBlender`, and each build's file carries a version
-suffix using underscores (e.g. `_v1_0_0.py`) — underscores because a Blender
-add-on's filename becomes its Python module name, where dots and hyphens are
-invalid.
-
 ## License
 
 [MIT](LICENSE) — applies to everything in this repository unless a subfolder
