@@ -91,4 +91,4 @@ from the XLSX export (which keeps the formula text), using only `zipfile` +
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Swap it for whatever you prefer before publishing.
+MIT — see the repository's root [LICENSE](../LICENSE).
